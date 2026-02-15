@@ -1,5 +1,3 @@
-# Coffee-Disease-Detection
-
 # CoffeeGuard AI
 
 A coffee leaf disease detection system built for Rwandan smallholder farmers. It uses a convolutional neural network to classify coffee leaf images, estimate how severe the infection is, and recommend treatments.
