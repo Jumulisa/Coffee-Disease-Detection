@@ -166,6 +166,10 @@ RoCoLe - Robusta Coffee Leaf Images Dataset from Kaggle.
 
 The class imbalance (red spider mite has fewer samples) is partially addressed through data augmentation during training.
 
+## Video(DEMO) 
+
+https://drive.google.com/file/d/1xmWxjHj3dYCX9_j1hXAh1LQS_g8STqsd/view?usp=sharing 
+
 ## Figma Link
 
 https://www.figma.com/design/VCynYWvAUDb9pK94UNo2iB/Coffee-Disease-Detection?node-id=0-1&t=ZTmBSgJMTCZaocI8-1
